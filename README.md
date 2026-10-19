@@ -4,6 +4,8 @@
 
 Press one hotkey repeatedly to cycle a window through half, two-thirds and one-third widths, edge by edge.
 
+> 🆓 A free, open-source **SizeUp alternative** for macOS 14+. Native Swift, no accounts, no subscriptions, MIT licensed.
+
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
 ![Swift 5.9](https://img.shields.io/badge/Swift-5.9-orange)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
@@ -90,6 +92,10 @@ SizeCycleKeys is free and always will be. If it saves you time, you can support 
 [![Support Or (Leo) Davidai ❤️ on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Or%20(Leo)%20Davidai%20%E2%9D%A4%EF%B8%8F-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/leodavidai)
 
 [Support Or (Leo) Davidai ❤️](https://ko-fi.com/leodavidai)
+
+## More free Mac apps
+
+SizeCycleKeys is one of [60 free, open-source Mac utilities](https://github.com/turhe123/mac-apps) built the same way: native Swift, no accounts, no telemetry. Browse the full gallery at [turhe123.github.io/mac-apps](https://turhe123.github.io/mac-apps/).
 
 ## License
 
