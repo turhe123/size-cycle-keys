@@ -1,0 +1,24 @@
+{
+  "seo_title": "Window size cycling for macOS",
+  "seo_description": "Free, open-source macOS menu bar app. Press one hotkey repeatedly to cycle a window through half, two-thirds and one-third widths, edge by edge.",
+  "hero_title_line1": "One hotkey.",
+  "hero_title_accent": "Every window size.",
+  "hero_sub": "Press Control-Option-Left again and again to cycle a window through half, two-thirds and one-third of the screen. Right, Top and Bottom work the same way.",
+  "features_title": "Fewer shortcuts, more layouts.",
+  "features_sub": "One shortcut per direction walks through several sizes, so you only need to remember a handful of keys.",
+  "features": [
+    {"icon": "keyboard", "title": "Cycling edge hotkeys", "desc": "Left, Right, Top and Bottom each step through 1/2, 2/3 and 1/3 when you repeat the shortcut within the timeout, then return to half."},
+    {"icon": "sliders", "title": "Editable cycles", "desc": "Give each direction its own ordered list of up to 6 steps, chosen from 1/4, 1/3, 1/2, 2/3 and 3/4. Set the gap to 0-40 pt and the reset timeout to 0.5-5 seconds."},
+    {"icon": "display", "title": "Multi-display aware", "desc": "Fractions come from the visible frame of the display the window mostly sits on, excluding the menu bar and Dock. Next Display moves a window across screens, keeping its relative position and size."},
+    {"icon": "window", "title": "Maximize, Restore and Center", "desc": "Maximize toggles back to the window's previous frame. Center cycles 60%, 80% and the original size."},
+    {"icon": "shield", "title": "Careful with your windows", "desc": "Repeats only advance if the window is still where the app put it. Full-screen windows are skipped, non-resizable windows are only moved, and steps a window's minimum size blocks are skipped."},
+    {"icon": "eye", "title": "Menu bar app with a layout HUD", "desc": "A brief overlay names the layout, such as Left 2/3, and can be turned off. The menu lists every action and its hotkey, and the shortcut recorder warns about likely system conflicts."}
+  ],
+  "permissions_step": "Grant Accessibility access when prompted, or later in System Settings > Privacy & Security > Accessibility, so the app can move and resize windows.",
+  "faq": [
+    {"q": "Is SizeCycleKeys really free and open source?", "a": "Yes. It is released under the MIT license, has no paid tier, and contains no analytics or third-party dependencies. If it saves you time, you can optionally support development through the Support button."},
+    {"q": "What permissions does it need?", "a": "Only Accessibility, which lets it read the focused window's position and size, move and resize it, and check whether a text field has focus. It does not request Screen Recording, Camera, Microphone, Location or network access."},
+    {"q": "Where is my data stored?", "a": "Your shortcuts, cycles and settings are stored locally in macOS UserDefaults on your Mac. Nothing is sent anywhere, because the app has no network access."},
+    {"q": "Why isn't the app notarized?", "a": "Notarization requires a paid Apple Developer account, which this free project does not have. Right-click the app and choose Open once to run it, or build it yourself from source with Xcode."}
+  ]
+}

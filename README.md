@@ -1,5 +1,7 @@
 # SizeCycleKeys
 
+**🌐 Website:** [turhe123.github.io/size-cycle-keys](https://turhe123.github.io/size-cycle-keys/)
+
 Press one hotkey repeatedly to cycle a window through half, two-thirds and one-third widths, edge by edge.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -39,7 +41,17 @@ SizeCycleKeys is a free, open-source, 100% native, backend-free alternative to p
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-cycles.png" alt="SizeCycleKeys Cycles settings with step pickers for Left and Right" width="720"></p>
+
+<p align="center"><em>The Cycles editor: each edge hotkey steps through its own ordered list of widths, 1/2 → 2/3 → 1/3 by default.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-shortcuts.png" alt="SizeCycleKeys Shortcuts settings listing seven actions and their hotkeys" width="560"></p>
+
+<p align="center"><em>Every action has a recordable global shortcut, defaulting to Control-Option plus an arrow, Return, C or N.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-menu.png" alt="SizeCycleKeys menu bar menu" width="560"></p>
+
+<p align="center"><em>The menu bar menu lists every action with its hotkey until Accessibility access is granted, it shows a Grant button and the actions stay disabled.</em></p>
 
 ## Install
 

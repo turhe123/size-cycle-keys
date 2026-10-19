@@ -1,0 +1,5 @@
+[
+  {"file":"01-cycles.png","caption":"The Cycles editor: each edge hotkey steps through its own ordered list of widths, 1/2 → 2/3 → 1/3 by default.","alt":"SizeCycleKeys Cycles settings with step pickers for Left and Right"},
+  {"file":"02-shortcuts.png","caption":"Every action has a recordable global shortcut, defaulting to Control-Option plus an arrow, Return, C or N.","alt":"SizeCycleKeys Shortcuts settings listing seven actions and their hotkeys"},
+  {"file":"03-menu.png","caption":"The menu bar menu lists every action with its hotkey; until Accessibility access is granted, it shows a Grant button and the actions stay disabled.","alt":"SizeCycleKeys menu bar menu"}
+]
